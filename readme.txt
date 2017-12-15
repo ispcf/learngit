@@ -5,4 +5,5 @@ git is under GPL
 add other line
 git tracks changes.
 modify after add
-Creating a new brach is quick
+Creating a new branch is quick
+Creating a new branch is quick AND simple
