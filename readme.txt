@@ -1,5 +1,5 @@
 git is a distributed version control system
-git is free software
+git is a FREE software
 add new line
 git is under GPL
 add other line
